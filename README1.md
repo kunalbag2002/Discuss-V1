@@ -1,4 +1,4 @@
-# 🧠 Social App — Node.js + Express + MongoDB
+# 🧠 Discuss-app — Node.js + Express + MongoDB
 
 A simple social web application built using **Node.js**, **Express**, **MongoDB**, **Mongoose**, **EJS**, and **JWT Authentication**.  
 Users can **register, log in, create posts, edit posts, like posts**, and **log out** securely.
@@ -153,8 +153,8 @@ All styled using **Tailwind CSS** for a clean modern UI.
 ## 👨‍💻 Author
 
 **Your Name**  
-📧 your.email@example.com  
-🌐 [GitHub](https://github.com/yourusername)
+📧 kbag791@gmail.com  
+🌐 [GitHub](https://github.com/kunalbag2002)
 
 ---
 
