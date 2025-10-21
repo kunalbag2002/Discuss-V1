@@ -138,4 +138,3 @@ Convert EJS → React frontend
 Your Name
 📧 kbag791@gmail.com
 
-🌐 GitHub
