@@ -136,6 +136,6 @@ Convert EJS → React frontend
 👨‍💻 Author
 
 Your Name
-📧 your.email@example.com
+📧 kbag791@gmail.com
 
 🌐 GitHub
